@@ -28,7 +28,7 @@
 #         run: node main.js
 
 
-name: Run Book Scraper Every 8 Hours
+name: Run Book Scraper Every 6.5 Hours
 
 on:
   schedule:
