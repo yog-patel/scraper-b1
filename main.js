@@ -73,8 +73,13 @@ async function main() {
     "https://www.mvlempyr.com/novel/rebirth-of-billionaires-wife",
     "https://www.mvlempyr.com/novel/rebirth-of-mc",
     "https://www.mvlempyr.com/novel/rebirth-of-the-evil-mother-in-law",
-    
-
+   "https://www.mvlempyr.com/novel/rebirth-of-the-film-emperors-beloved-wife",
+    "https://www.mvlempyr.com/novel/rebirth-of-the-nameless-immortal-god",
+    "https://www.mvlempyr.com/novel/rebirth-of-the-supreme-celestial-being",
+    "https://www.mvlempyr.com/novel/rebirth-of-the-thief-who-roamed-the-world",
+    "https://www.mvlempyr.com/novel/rebirth-of-the-tyrants-pet-regent-prince-is-too-fierce",
+    "https://www.mvlempyr.com/novel/rebirth-of-the-villainess-young-master-lus-wicked-wife",
+    "https://www.mvlempyr.com/novel/rebirth-of-the-villainous-crown-prince",
 
         
       ];
